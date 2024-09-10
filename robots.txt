@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://201taylaw131.github.io/mywebsite/sitemap.xml
